@@ -30,7 +30,6 @@
   "permissions": [
     "cookies",
     "tabs",
-    "webNavigation",
     "https://www.google.com/accounts/ClientLogin",
     "*://*.android.clients.google.com/*"
   ]
